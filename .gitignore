@@ -4,3 +4,4 @@ __pycache__/
 *.pyc
 python3.13/
 instance/
+create_db.py
